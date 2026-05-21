@@ -1,0 +1,2 @@
+../Core/Hardware/motor.c:12:5:abs	16	static
+../Core/Hardware/motor.c:20:6:Motor_SetSpeed	16	static
